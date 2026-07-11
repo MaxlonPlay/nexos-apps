@@ -9,6 +9,6 @@
       gradient: "from-rose-500 to-orange-500"
       category: Multimedia
       min_core: "1.0.0"
-      nxpkg_url: "history-clone/history-clone-0.1.0.nxpkg"
+      nxpkg_url: "https://github.com/MaxlonPlay/nexos-apps/blob/fed0b1cf2d58703535d297921bb367a6e58c61a6/history-clone/history-clone-0.1.0.nxpkg"
       size_bytes: 0
       screenshots: []
