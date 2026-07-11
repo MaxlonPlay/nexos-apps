@@ -1,0 +1,14 @@
+  schema_version: 1
+  apps:
+    - id: usb-boot-creator
+      name: USB Boot Creator
+      version: "0.1.0"
+      developer: NexOS
+      description: "Crea chiavette USB avviabili da file ISO"
+      icon: Usb
+      gradient: "from-blue-500 to-cyan-600"
+      category: system
+      min_core: "1.0.0"
+      nxpkg_url: "https://raw.githubusercontent.com/MaxlonPlay/nexos-apps/main/apps/usb-boot-creator/usb-boot-creator-0.1.0.nxpkg"
+      size_bytes: 0
+      screenshots: []
