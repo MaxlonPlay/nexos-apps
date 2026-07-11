@@ -4,6 +4,9 @@
   description: "Test app ufficiale"
   icon: History
   gradient: "from-yellow-500 to-amber-600"
+  screenshots:
+    - "screenshot-1.png"
+    - "screenshot-2.png"
   category: system
   min_core: "1.0.0"
   versions:
