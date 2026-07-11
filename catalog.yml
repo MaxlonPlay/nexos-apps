@@ -1,14 +1,14 @@
   schema_version: 1
   apps:
-    - id: usb-boot-creator
-      name: USB Boot Creator
-      version: "0.2.0"
-      developer: NexOS
-      description: "Crea chiavette USB avviabili da file ISO"
-      icon: Usb
-      gradient: "from-blue-500 to-cyan-600"
-      category: system
+    - id: media-scraper
+      name: Media Scraper
+      version: "0.1.0"
+      developer: NexOS Team
+      description: "Gestisci i tuoi media"
+      icon: Clapperboard
+      gradient: "from-rose-500 to-orange-500"
+      category: Multimedia
       min_core: "1.0.0"
-      nxpkg_url: "https://raw.githubusercontent.com/MaxlonPlay/nexos-apps/main/apps/usb-boot-creator/usb-boot-creator-0.1.0.nxpkg"
+      nxpkg_url: "history-clone/history-clone-0.1.0.nxpkg"
       size_bytes: 0
       screenshots: []
