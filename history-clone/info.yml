@@ -1,14 +1,9 @@
-  schema_version: 1
-  apps:
+  app:
     - id: history-clone
       name: History Clone
-      version: "0.1.0"
       developer: NexOS Team
       description: "Test app ufficiale"
       icon: History
       gradient: "from-yellow-500 to-amber-600"
       category: system
       min_core: "1.0.0"
-      nxpkg_url: "https://raw.githubusercontent.com/MaxlonPlay/nexos-apps/main/history-clone/history-clone-0.1.0.nxpkg"
-      size_bytes: 0
-      screenshots: []
