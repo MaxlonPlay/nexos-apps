@@ -2,7 +2,7 @@
   apps:
     - id: usb-boot-creator
       name: USB Boot Creator
-      version: "0.1.0"
+      version: "0.2.0"
       developer: NexOS
       description: "Crea chiavette USB avviabili da file ISO"
       icon: Usb
