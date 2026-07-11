@@ -1,14 +1,14 @@
   schema_version: 1
   apps:
-    - id: media-scraper
-      name: Media Scraper
+    - id: "history-clone
+      name: History Clone
       version: "0.1.0"
       developer: NexOS Team
-      description: "Gestisci i tuoi media"
-      icon: Clapperboard
-      gradient: "from-rose-500 to-orange-500"
-      category: Multimedia
+      description: "Tets app ufficiale"
+      icon: History
+      gradient: "from-yellow-500 to-amber-600"
+      category: System
       min_core: "1.0.0"
       nxpkg_url: "https://github.com/MaxlonPlay/nexos-apps/blob/fed0b1cf2d58703535d297921bb367a6e58c61a6/history-clone/history-clone-0.1.0.nxpkg"
-      size_bytes: 0
+      size_bytes: 843.76 KB
       screenshots: []
