@@ -1,0 +1,15 @@
+  id: media-scraper
+  name: Media Scraper
+  developer: NexOS Team
+  description: "media-scraper"
+  icon: History
+  gradient: "from-yellow-500 to-amber-600"
+  screenshots:
+    - "screenshot-1.png"
+    - "screenshot-2.png"
+    - "screenshot-3.png"
+    - "screenshot-4.png"
+  category: Media
+  min_core: "0.9.8.6"
+  versions:
+    - "0.1.0"
