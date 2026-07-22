@@ -4,7 +4,7 @@ description: Rename and organize movies and TV series using TMDB metadata.
 icon: Clapperboard
 gradient: from-rose-500 to-orange-500
 category: media
-min_core: "0.9.8.6"
+min_core: "0.9.8.9"
 versions:
   - 0.2.6
 screenshots:
