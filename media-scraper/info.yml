@@ -1,0 +1,13 @@
+name: Media Scraper
+developer: NexOS
+description: Rename and organize movies and TV series using TMDB metadata.
+icon: Clapperboard
+gradient: from-rose-500 to-orange-500
+category: media
+min_core: "0.9.8.6"
+versions:
+  - 0.2.6
+screenshots:
+  - screenshot-0.png
+  - screenshot-1.png
+  - screenshot-2.png
