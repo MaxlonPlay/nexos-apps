@@ -1,0 +1,10 @@
+name: PowerTools
+developer: NexOS
+description: A handy collection of utilities for network diagnostics and system tasks.
+icon: Wrench
+gradient: from-orange-500 to-rose-600
+category: utilities
+min_core: "1.0.0"
+versions:
+  - 0.1.0
+screenshots: []
