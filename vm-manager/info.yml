@@ -1,1 +1,16 @@
 
+name: VM Manager
+developer: NexOS
+tagline: All your virtual environments, in one place.
+description: A comprehensive virtualization management platform built for speed and reliability. Seamlessly orchestrate QEMU instances, leverage advanced ZFS storage capabilities, automate full backups, and manage qcow2 images directly from a single, unified interface.
+icon: "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" width=\"256\" height=\"256\"><defs><linearGradient id=\"vmBody\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"#EEF2FB\"/></linearGradient><linearGradient id=\"vmGuest\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#6B7AA8\"/><stop offset=\"100%\" stop-color=\"#5F6CA6\"/></linearGradient><filter id=\"vmSoft\" x=\"-25%\" y=\"-25%\" width=\"150%\" height=\"150%\"><feDropShadow dx=\"0\" dy=\"4\" stdDeviation=\"6\" flood-color=\"#2E3A66\" flood-opacity=\"0.22\"/></filter></defs><g filter=\"url(#vmSoft)\"><rect x=\"68\" y=\"213\" width=\"120\" height=\"20\" rx=\"10\" fill=\"url(#vmBody)\"/><rect x=\"110\" y=\"191\" width=\"36\" height=\"22\" fill=\"#E4EAF7\"/><rect x=\"8\" y=\"23\" width=\"240\" height=\"168\" rx=\"26\" fill=\"url(#vmBody)\"/><rect x=\"26\" y=\"41\" width=\"204\" height=\"132\" rx=\"16\" fill=\"#D2DAF3\"/></g><g><rect x=\"100\" y=\"133\" width=\"56\" height=\"9\" rx=\"4.5\" fill=\"url(#vmGuest)\"/><rect x=\"120\" y=\"127\" width=\"16\" height=\"6\" fill=\"#65729F\"/><rect x=\"88\" y=\"71\" width=\"80\" height=\"56\" rx=\"12\" fill=\"url(#vmGuest)\"/></g></svg>",
+gradient: "bg-gradient-to-br from-indigo-400 to-indigo-600 sheen",
+category: utilities
+featured: true
+min_core: "0.9.9.2"
+versions:
+  - 0.2.0
+screenshots:
+  - screenshot-0.png
+  - screenshot-1.png
+  - screenshot-2.png
