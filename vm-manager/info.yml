@@ -3,7 +3,7 @@ name: VM Manager
 developer: NexOS
 tagline: All your virtual environments, in one place.
 description: A comprehensive virtualization management platform built for speed and reliability. Seamlessly orchestrate QEMU instances, leverage advanced ZFS storage capabilities, automate full backups, and manage qcow2 images directly from a single, unified interface.
-category: utilities
+category: Utilities
 featured: true
 min_core: "0.9.9.2"
 versions:
