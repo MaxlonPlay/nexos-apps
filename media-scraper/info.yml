@@ -9,7 +9,7 @@ category: media
 featured: true
 min_core: "0.9.9.5"
 versions:
-  - 0.2.7
+  - 0.3.5
 screenshots:
   - screenshot-0.png
   - screenshot-1.png

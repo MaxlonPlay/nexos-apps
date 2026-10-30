@@ -9,7 +9,7 @@ gradient: bg-gradient-to-br from-indigo-400 to-indigo-600 sheen
 featured: true
 min_core: "0.9.9.5"
 versions:
-  - 0.3.2
+  - 0.4.2
 screenshots:
   - screenshot-0.png
   - screenshot-1.png
